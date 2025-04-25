@@ -1,0 +1,30 @@
+{
+    "employees": [
+      {
+        "id": "EMP001",
+        "email": "employee1@example.com",
+        "password": "123"
+      },
+      {
+        "id": "EMP002",
+        "email": "employee2@example.com",
+        "password": "123"
+      },
+      {
+        "id": "EMP003",
+        "email": "employee3@example.com",
+        "password": "123"
+      },
+      {
+        "id": "EMP004",
+        "email": "employee4@example.com",
+        "password": "123"
+      },
+      {
+        "id": "EMP005",
+        "email": "employee5@example.com",
+        "password": "123"
+      }
+    ]
+  }
+  
